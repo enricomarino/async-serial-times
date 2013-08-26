@@ -1,0 +1,9 @@
+{
+  "name": "series-times-series",
+  "repo": "enricomarino/async-times-series",
+  "version": "0.0.1",
+  "description": "async times series",
+  "keywords": ["async", "times", "series"],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
