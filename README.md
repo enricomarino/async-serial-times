@@ -1,10 +1,10 @@
-# async-times-series
+# async-serial-times
 
-async times series
+async serial times
 
 ## Installation
 
-    $ component install enricomarino/async-times-series
+    $ component install enricomarino/async-serial-times
 
 ## License
 
